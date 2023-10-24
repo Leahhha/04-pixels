@@ -17,4 +17,4 @@ The link to Takawo's sketch:
 
 Example:
 
-[Parametric_equation](https://en.wikipedia.org/wiki/Parametric_equation#:~:text=Parametric%20equations%20are%20commonly%20used,as%20parametrisation)%20of%20the%20object)
+[Parametric_equation](https://en.wikipedia.org/wiki/Parametric_equation#:~:text=Parametric%20equations%20are%20commonly%20used,as%20parametrisation)
