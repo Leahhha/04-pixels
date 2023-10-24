@@ -12,8 +12,9 @@ One thing that I think is very smart is that Takawo uses external color palette 
  ![print_annotate_code_exercise3](print_annotate_code_exercise3.jpg)
 
 The link to Takawo's sketch: 
-https://openprocessing.org/sketch/1050025
-[Takawo's sketch](https://www.youtube.com/watch?v=zrwUIS7rj54](https://openprocessing.org/sketch/1050025)
+
+[Takawo's sketch](https://openprocessing.org/sketch/1050025)
 
 Example:
-[Parametric_equation](https://www.youtube.com/watch?v=zrwUIS7rj54](https://en.wikipedia.org/wiki/Parametric_equation#:~:text=Parametric%20equations%20are%20commonly%20used,as%20parametrisation)%20of%20the%20object)
+
+[Parametric_equation](https://en.wikipedia.org/wiki/Parametric_equation#:~:text=Parametric%20equations%20are%20commonly%20used,as%20parametrisation)%20of%20the%20object)
