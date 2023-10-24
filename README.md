@@ -9,3 +9,5 @@ One thing that I think is very smart is that Takawo uses external color palette 
 
 The link to Takawo's sketch: 
 https://openprocessing.org/sketch/1050025
+Example:
+https://en.wikipedia.org/wiki/Parametric_equation#:~:text=Parametric%20equations%20are%20commonly%20used,as%20parametrisation)%20of%20the%20object
